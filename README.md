@@ -1,36 +1,3 @@
-![](static/screenshot.png)
+Bahis dünyasında hiç şüphesiz deneme bonusu çok ayrı yer tutmaktadır. Herhangi bir çevrim şartı olmaması buna ek olarak yatırım şartı aranmaması, bunun en önemli sebeplerinden biridir. Bahis severlerin herhangi bir kayıp yaşamadan, kazanç elde edebilme şansına sahip olması, deneme bonusuna olan talebi arttırmaktadır. Sonuç olarak deneme bonusu veren siteler de önem kazanmaya başlamıştır. Bahis ile ilgilenen herkes bonus alabileceği sağlam bir site bulmak için arayış içerisine girmektedir. Kullanıcılar bu siteler üzerinde farklı oyunlara katılım göstererek deneme bonusunu test etme imkanına sahiptirler. Deneme bonusu her sitede farklılık gösteren kural ve şartlara sahiptir. Dolayısıyla deneme bonusu alacağınız sitenin size sunduğu şartları öğrenmeniz gerekir. Bazı siteler yatırım şartlı bazı siteler yatırım şartsız deneme bonusu vermektedir.
 
-## `showcase_chat`
-
-A minimal chat platform template. It uses [Fresh](https://fresh.deno.dev) +
-[Supabase](https://supabase.io) + [twind](https://twind.dev) +
-[BroadcastChannel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
-on Deno Deploy.
-
-To get started, setup your `.env` with Supabase and Github OAuth credentials:
-
-- `cp .env.example .env`
-
-To setup a
-[Github OAuth App](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps)
-
-- Go to https://github.com/settings/applications/new
-- Set `Application name` to `Deploy Chat Example`
-- Set `Homepage URL` to your Deno Deploy project URL. (eg:
-  `chat-app-example.deno.dev`)
-- Set `Authorization callback URL` to `http://chat-app-example.deno.dev` or
-  localhost for development.
-- Add `Client ID` and `Client Secret` in the `.env` file.
-
-Create a Supabase project
-
-- Go to app.supabase.io
-- Click on "New Project".
-- Enter project details and wait for the database to launch.
-- Grab the URL and anon key and DB from and add them to the `.env` file.
-
-and fire up the server:
-
-```
-deno task start
-```
+Benzer şekilde casino siteleri ve forumlar da deneme bonusu veren siteler gibi hareket eder. Bu sitelerin sunduğu deneme bonusu imkanlarını forum siteleri birebir olarak üyelerine hizmetine sunar. Dolayısıyla forum siteleri de deneme bonusu almanın bir diğer adresidir. Tüm bu değerlendirmelerin sonucu olarak en güncel, en yüksek ve en gerçek deneme bonusu veren siteler listesi şu şekildedir:
